@@ -119,3 +119,47 @@ layout: post
 按下回车后，**必须出现**以下图片所示窗口，才算成功，**否则请检查您是否有使用管理员运行**
 
 ![pic5](https://pic2.imgdb.cn/item/644d35e40d2dde5777eb9d51.jpg)
+
+## 第四步：配置Hosts文件
+
+打开系统设置，打开**网络与Internet**，然后根据您目前连接的网络（WLAN/以太网），点击相对应的选项
+
+以以太网为例，进入后应当如图所示：
+
+![pic1](https://pic.imgdb.cn/item/63fb3727f144a010072e01ae.jpg)
+
+我们需要知道该网络使用的适配器名字，在下面**描述**中可以看到适配器名  
+按照图中举例为`Realtek Gaming 2.5GbE Family Controller`  
+请记住该适配器名，后续配置网络将要用到  
+
+接着按下`Windows徽标键 + R键（Win+R）`，打开`运行`窗口  
+在该窗口输入`cmd`，并且回车，此时会打开`cmd/终端窗口`  
+
+输入以下代码：
+`ipconfig /all`  
+回车，会列出当前所有网络适配器的具体信息  
+按照之前我们所记住的适配器名，我们找到对应的那一部分  
+如图为例，之前我们记住的适配器名为`Realtek Gaming 2.5GbE Family Controller`：
+
+![pic2](https://pic.imgdb.cn/item/63fb33c7f144a0100727750a.jpg)
+
+我们记住这一部分中的`默认网关与IPV4地址`，后续将要用到  
+然后，我们就要开始配置hosts文件了  
+
+打开以下路径：`C:\Windows\System32\drivers\etc`
+找到hosts文件，右键将其使用文本打开(推荐使用NotePad++，可在百度上或者是群内下载安装)  
+
+按照图例与下方给出的代码，将其对应着填写至您的hosts文件里（请不要填错！）  
+```
+替换为默认网关    tenporouter.loc
+替换为默认网关    bbrouter.loc
+替换为服务器IP    naominet.jp
+```
+
+**服务器IP请至服务器群内公告或找人进行询问获取**  
+图片为正确填写的例子：
+
+![pic3](https://pic.imgdb.cn/item/63fb3544f144a0100729d6c8.jpg)
+
+建议填写后**往下回车空多几行**，以免其他软件使用hosts文件时导致最后一行丢失  
+最后**保存**即可
