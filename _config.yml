@@ -14,7 +14,7 @@ baseurl:          '/olg-wmmt'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: OLG-WMMT-Team/olg-wmmt
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
