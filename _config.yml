@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://olg-wmmt-team.github.io/OLG-Help-Center/'
-baseurl:          '/OLG-Help-Center'
+url:              'http://olg-wmmt.top/'
+baseurl:          'olg-wmmt.top/OLG-Help-Center'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
