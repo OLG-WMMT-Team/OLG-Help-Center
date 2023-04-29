@@ -14,6 +14,8 @@ layout: post
 
 [数据更改网站2](https://wmmt.terata.icu/app/wmmt/home-63f983e9cd75cd41dd6ad0a3?embed=true)
 
+*网站加载会比较慢，一般会需要一到两分钟左右进行加载，请耐心等待*
+
 > ##### 警告
 > 
 > 注意请一定要在游戏关闭的状态下修改！    
