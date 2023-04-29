@@ -163,3 +163,108 @@ layout: post
 
 建议填写后**往下回车空多几行**，以免其他软件使用hosts文件时导致最后一行丢失  
 最后**保存**即可
+
+## 第四步：配置TP模拟器网络
+
+在`WMMT6R`文件夹中，打开`TP_MutiPlayer`文件夹
+
+双击打开程序：`TeknoParrotUi.exe`
+
+点击`游戏设定`，然后跟着图片步骤做
+
+![pic1](https://pic2.imgdb.cn/item/644d3a750d2dde5777f30157.jpg)
+
+![pic2](https://pic2.imgdb.cn/item/644d3a9c0d2dde5777f34be9.jpg)
+
+![pic2-1](https://pic2.imgdb.cn/item/644d3b930d2dde5777f4ec5b.jpg)
+
+![pic3](https://pic2.imgdb.cn/item/644d3ad80d2dde5777f3e27d.jpg)
+
+> ##### 提示
+> 
+> 默认网关和IPV4地址在第三步中获取过
+{: .block-tip }
+
+![pic4](https://pic2.imgdb.cn/item/644d3b220d2dde5777f459fa.jpg)
+
+**至此，TP模拟器网络配置完毕**
+
+## 第五步：配置操控
+
+顾名思义，就是要配置游戏的控制器
+
+此处分为两种情况，一种是`PS系列手柄/键盘/方向盘`，另一种是`XBOX系列手柄/第三方手柄（如北通等）`
+
+根据自身情况选择
+
+### PS系列手柄
+
+1. 游戏设定中该项必须是`DirectInput`
+
+![di](https://pic2.imgdb.cn/item/644d3ca20d2dde5777f5ff3d.jpg)
+
+2. 进入主页中的`控制器设置`，根据左侧提示自行设置按钮
+
+> ##### 警告
+> 
+> 由于PS系列手柄的特性，在方向与油门刹车设置的时候  
+> 请在保持**打盘打死/油门刹车踩死**的情况下再去设置下一个按键
+{: .block-warning }
+
+3. 在主页的左上角点击**三条杠按钮**，点击设置
+
+![pic2](https://pic2.imgdb.cn/item/644d3d5c0d2dde5777f6c13c.jpg)
+
+4. 将该处设置成与图片一样的形式
+
+![pic3](https://pic2.imgdb.cn/item/644d3d7d0d2dde5777f6e29d.jpg)
+
+### 键盘/方向盘
+
+1. 游戏设定中该项必须是`DirectInput`
+
+![di](https://pic2.imgdb.cn/item/644d3ca20d2dde5777f5ff3d.jpg)
+
+2. 进入主页中的`控制器设置`，根据左侧提示自行设置按钮
+
+### XBOX系列手柄/第三方手柄（如北通等）
+
+1. 游戏设定中该项必须是`XInput`
+
+![X](https://pic2.imgdb.cn/item/644d3dca0d2dde5777f72a10.jpg)
+
+2. 进入主页中的`控制器设置`，根据左侧提示自行设置按钮
+
+
+**设置完毕后，即可保存并关闭TP模拟器**
+
+
+## 第六步：运行游戏
+
+### 1.运行MaxiTerminal
+
+打开文件夹：WMMT\MaxiTerminal  
+双击运行run.bat文件即可  
+正常运行应该如图所示：  
+
+![1](https://pic.imgdb.cn/item/63fb452ef144a0100741dd5a.jpg)
+
+若与图片不一样，请确保您没有使用管理员方式进行打开  
+部分电脑的出厂预装系统（如联想拯救者）会采用默认所有软件使用管理员方式打开，具体取消操作将会在`安装过程中的问题`部分中讲解如何取消
+
+### 2.运行AMAuthd.exe
+
+打开文件夹：WMMT\AMCUS  
+双击运行AMAuthd.exe即可（若您使用管理员方式打开，将会无任何信息显示，请使用非管理员方式打开）  
+正常运行应该如图所示（最后一行应该为none）  
+
+![2](https://pic.imgdb.cn/item/63fb463cf144a01007432e86.jpg)
+
+### 3.运行TP模拟器
+
+打开文件夹：`WMMT\TP_MutiPlayer_6R`  
+运行程序：`TeknoParrotUi.exe`  
+点击`LAUNCH GAME`即可启动游戏  
+若网络没有配置错误的话 游戏过机修菜单时将不会报任何错误，直接可以进入游戏界面  
+默认配置的刷卡键是`backscape（退格）`键，进入游戏后按该键即可刷卡
+
