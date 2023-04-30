@@ -24,6 +24,14 @@ layout: post
 
 ![2](https://pic2.imgdb.cn/item/644ec1150d2dde5777830880.png)
 
+> ##### 注意
+> 
+> 该两个铭牌在终端机的显示为如下两个铭牌，点击即可在上方看到正确的铭牌  
+> 
+> ![1](https://pic2.imgdb.cn/item/644ec8240d2dde5777892a6c.jpg)  
+> ![2](https://pic2.imgdb.cn/item/644ec8420d2dde57778939fe.jpg)
+{: .block-warning }
+
 **HKG太阳贴纸**
 
 > ##### 提示
