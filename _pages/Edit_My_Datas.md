@@ -10,6 +10,8 @@ layout: post
 
 **更改网站网址（能用哪个用哪个）**
 
+**建议使用微软Edge或者谷歌Chrome浏览器浏览以免出现不必要问题！**
+
 [数据更改网站1](http://47.113.225.116/app/wmmt/home-63f983e9cd75cd41dd6ad0a3?embed=true)
 
 [数据更改网站2](https://wmmt.terata.icu/app/wmmt/home-63f983e9cd75cd41dd6ad0a3?embed=true)
