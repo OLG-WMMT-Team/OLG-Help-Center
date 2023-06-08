@@ -8,45 +8,44 @@ layout: post
 
 ## 最新活动
 
-海外化身对战 香港
+全国一位争夺战（OCM) 第一届
 
-时间：`2023.5.1 12:00 ~ 2023.7.1 12:00`
+**区域：C1外环**
 
-*活动可获取奖品*
+举办时间：
+预赛：`2023.6.9 9:00 ~ 2023.7.1 9:00`
+正赛：`2023.7.1 10:00 ~ 2023.7.10 10:00 每一天10点更换当前第一名`
 
-**比赛用表**
+**预赛参与奖励**
 
-![1](https://pic2.imgdb.cn/item/644ec1150d2dde5777830894.png)![2](https://pic2.imgdb.cn/item/644ec1150d2dde57778308a4.png)
+![1](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_00_00.png)
+![2](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/id_0.png)
+![3](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_02_00.png)
+![4](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_03_00.png)
 
-**铭牌**
+**正赛参与奖励**
 
-![1](https://pic2.imgdb.cn/item/644ec1150d2dde5777830854.png)
+![1](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_04_01.png)
 
-![2](https://pic2.imgdb.cn/item/644ec1150d2dde5777830880.png)
+**前50名奖励**
 
-> ##### 注意
-> 
-> 该两个铭牌在终端机的显示为如下两个铭牌，点击即可在上方看到正确的铭牌  
-> 
-> ![1](https://pic2.imgdb.cn/item/644ec8240d2dde5777892a6c.jpg)  
-> ![2](https://pic2.imgdb.cn/item/644ec8420d2dde57778939fe.jpg)
-{: .block-warning }
+![2](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_05_00.png)
 
-**HKG太阳贴纸**
+
 
 > ##### 提示
 > 
-> VSORG进行中**每逢周三、日**都会随机将**部分Wanted鬼更改为60/90/99步数**！
-> 
-> 另外。最后击败数前五名有以下奖励  
-> 1. 自选隐藏车3辆，任意修改公里数与等级5次，自选表1套，自选铭牌5副
-> 2. 自选隐藏车2辆，任意修改公里数与等级3次，自选表1套，自选铭牌3副
-> 3. 自选隐藏车1辆，任意修改公里数与等级1次，自选铭牌2副
-> 4. 自选隐藏车1辆，任意修改公里数与等级1次，自选铭牌1副
-> 5. 自选隐藏车1辆，任意修改公里数与等级1次
+> OCM前五奖励
+> 1. Toyota GR Supra 1辆，红蓝铝合金表1副，数据更改机会3次
+> 2. S2000 1辆，红色沙漠表1副，数据更改机会2次
+> 3. S2000 1辆，红色沙漠表1副，数据更改机会1次
+> 4. S660 1辆，红色沙漠表1副
+> 5. S660 1辆
 {: .block-tip }
 
 ## 以往活动
+
+- `2023.5.1 12:00 ~ 2023.6.8 15:00`  VSORG HKG
 
 - `2023.4.2 15:00 ~ 2023.4.30 16:00`  OCM 1st C1外环区域  
 
