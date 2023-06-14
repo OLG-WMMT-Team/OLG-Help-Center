@@ -27,7 +27,7 @@ layout: post
 
 ![1](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_04_01.png)
 
-**前50名奖励**
+**前25名奖励**
 
 ![2](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_05_00.png)
 
