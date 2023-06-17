@@ -8,9 +8,9 @@ layout: post
 
 ## 最新活动
 
-全国一位争夺战（OCM) 第一届
+全国一位争夺战（OCM) 第十四届
 
-**区域：C1外环**
+**区域：横滨**
 
 举办时间：  
 预赛：`2023.6.8 23:00 ~ 2023.7.1 9:00`  
@@ -18,18 +18,18 @@ layout: post
 
 **预赛参与奖励**
 
-![1](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_00_00.png)
-![2](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/id_0.png)
-![3](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_02_00.png)
-![4](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_03_00.png)
+![1](https://wanganmaxi-official.com//wanganmaxi5dxplus/cn/event/online/img/009/plate03_01.png)  
+![2](https://wanganmaxi-official.com//wanganmaxi5dxplus/cn/event/online/img/009/plate02_01.png)  
+![3](https://wanganmaxi-official.com//wanganmaxi5dxplus/cn/event/online/img/009/plate05_01.png)  
+![4](https://wanganmaxi-official.com//wanganmaxi5dxplus/cn/event/online/img/009/plate04_01.png)  
 
 **正赛参与奖励**
 
-![1](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_04_01.png)
+![1](https://wanganmaxi-official.com//wanganmaxi5dxplus/cn/event/online/img/009/plate01_01.png)
 
 **前25名奖励**
 
-![2](https://wanganmaxi-official.com/wanganmaxi5dxplus/na/event/online/img/003/cmn_dressp_nameplate03_05_00.png)
+![1](https://wanganmaxi-official.com//wanganmaxi5dxplus/cn/event/online/img/009/plate06_01.png)
 
 
 
