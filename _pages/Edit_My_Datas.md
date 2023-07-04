@@ -12,11 +12,7 @@ layout: post
 
 **建议使用微软Edge或者谷歌Chrome浏览器浏览以免出现不必要问题！**
 
-[数据更改网站1](http://47.113.225.116/app/wmmt/home-63f983e9cd75cd41dd6ad0a3?embed=true)
-
-[数据更改网站2](https://wmmt.terata.icu/app/wmmt/home-63f983e9cd75cd41dd6ad0a3?embed=true)
-
-*网站加载会比较慢，一般会需要一到两分钟左右进行加载，请耐心等待*
+[数据更改网站](https://lowcode.methodot.com/app/olg-wmmt-public/page-649ad8a36fbfd93d5cd473bb)  
 
 > ##### 警告
 > 
